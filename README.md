@@ -1,8 +1,8 @@
 ### pick and place in ROS-Gazebo with a USB cam and vacuum grippers. 
 
 <p align="center">
-<img src="https://github.com/bobd988/ur5-pick-place/blob/master/media/demo1.gif" width="600">
-<img src="https://github.com/bobd988/ur5-pick-place/blob/master/media/demo2.gif" width="600">
+<img src="https://github.com/bobd988/ur5-pick-place/blob/main/src/ur5-pick-place/media/demo1.png" width="600">
+<img src="https://github.com/bobd988/ur5-pick-place/blob/main/src/ur5-pick-place/media/demo2.png" width="600">
 
 This project is based on ROS Kinetic under Ubuntu 16.04 LTS.  
 
